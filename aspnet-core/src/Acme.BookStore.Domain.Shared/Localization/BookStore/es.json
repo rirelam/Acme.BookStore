@@ -1,8 +1,31 @@
 {
-  "culture": "es",
+  "Culture": "es",
   "texts": {
     "Menu:Home": "Inicio",
     "Welcome": "Bienvenido",
-    "LongWelcomeMessage": "Bienvenido a la aplicación, este es un proyecto base basado en el framework ABP. Para más información, visita abp.io."
+    "LongWelcomeMessage": "Bienvenido a la aplicación, este es un proyecto base basado en el framework ABP. Para más información, visita abp.io.",
+    "Menu:BookStore": "Tienda de Libros",
+    "Menu:Books": "Libros",
+    "Actions": "Acciones",
+    "Close": "Cerrar",
+    "Delete": "Borrar",
+    "Edit": "Editar",
+    "PublishDate": "Fecha de Publicación",
+    "NewBook": "Nuevo Libro",
+    "Name": "Nombre",
+    "Type": "Tipo",
+    "Price": "Precio",
+    "CreationTime": "Fecha de Creación",
+    "AreYouSure": "Está seguro?",
+    "AreYouSureToDelete": "Está seguro que quiere borrar este elemento?",
+    "Enum:BookType.0": "Indefinido",
+    "Enum:BookType.1": "Aventura",
+    "Enum:BookType.2": "Biografía",
+    "Enum:BookType.3": "Distopía",
+    "Enum:BookType.4": "Fantasía",
+    "Enum:BookType.5": "Horror",
+    "Enum:BookType.6": "Ciencia",
+    "Enum:BookType.7": "Ciencia Ficción",
+    "Enum:BookType.8": "Poesía"
   }
 }
