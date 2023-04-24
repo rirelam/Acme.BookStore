@@ -31,6 +31,7 @@
     "Permission:Books": "Gestión de Libros",
     "Permission:Books.Create": "Creación Libros Nuevos",
     "Permission:Books.Edit": "Edición de Libroe",
-    "Permission:Books.Delete": "Eliminación de Libros"
+    "Permission:Books.Delete": "Eliminación de Libros",
+    "BookStore:00001": "Ya existe un autor con el mismo nombre: {name}"
   }
 }
